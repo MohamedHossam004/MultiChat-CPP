@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="ChatSystem_Juba/ChatSystem_Juba.vcxproj" Id="a109482c-bed7-4ad1-aac1-f2065271e052" />
+</Solution>
